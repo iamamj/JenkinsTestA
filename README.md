@@ -1,2 +1,5 @@
 Jenkins test
-reacte test
+react test
+test
+test
+ssh test
